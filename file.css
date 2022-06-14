@@ -1,0 +1,94 @@
+
+*{
+  font-family:"Open Sans" ;
+}
+  h1{
+  text-align: center;
+ 
+}
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+div{
+  flex-basis: 100%;
+    
+    margin-bottom: -100px;
+}
+#div1{
+  background-color:#808080 ;
+  border-width: thick;
+  
+  
+}
+#h4{
+  text-align: center;
+  background-color:#FFC0CB ;
+  border-style: solid;
+  text-align: right;
+  position:relative;
+  right:-194px;
+    width: 20%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25%;
+}
+#div2{
+  background-color:#808080;
+  border-width: thick;
+}
+
+#h5{
+  background-color:#FFC0CB ;
+  border-style: solid;
+  text-align: right;
+  position:relative;
+  right:-194px;
+    width: 20%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25%;
+  
+}
+
+
+
+
+#div3{background-color:#808080;
+  border-width: thick;
+  
+}
+#h6{ 
+  background-color:#FFC0CB ;
+  border-style: solid;
+  text-align: right;
+  position:relative;
+  right:-194px;
+    width: 20%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25%;
+  
+}
+@media screen and (min-width: 600px) {
+  body{
+  
+  
+  display: inline-block;
+
+  }
+  
+#h6{ position: "relative";
+     right: -406px;
+}
+  
+  
+    #h5{ position: "relative";
+     right: -406px;
+  }
+  #h4 { position: "relative";
+     right: -406px;
+      
+    }
+  }
+
+  
+
+  
